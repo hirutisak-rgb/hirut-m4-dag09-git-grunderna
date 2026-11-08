@@ -84,3 +84,4 @@ I formuläret fyller du i:
 
 - Läs om `git commit --amend` och ändra ett meddelande.
 - Skapa en `.gitignore` med `.DS_Store`.
+- Hej! Jag heter Hirut och jag lär mig frontendutveckling.
